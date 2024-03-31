@@ -1,14 +1,14 @@
 # About the Project
 
-This repository contains the source code of the XYZ application. The XYZ app is a mobile application that allows you to create colorful images. You can download the app from the Play Store using the following link:
+This repository contains the source code of the 2048 Colorful-2 game application. The  2048 Colorful-2 game app is a mobile application that allows you to create colorful images. You can download the app from the Play Store using the following link:
 
 [![Google Play Store](https://play.google.com/intl/en_us/badges/images/generic/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.colorful2&hl=en)
 
 ## Screenshots
 
-![Main Screen]([screenshots/screenshot1.png](https://play-lh.googleusercontent.com/RRh5j0a_qvowGdTPMMtEoMQayHGPBSN1AEnSOY4LhqH3phYKIQVcxiJOuyPIG8uKRk0=w2560-h1440-rw))
-![Settings Screen]([screenshots/screenshot2.png](https://play-lh.googleusercontent.com/RRh5j0a_qvowGdTPMMtEoMQayHGPBSN1AEnSOY4LhqH3phYKIQVcxiJOuyPIG8uKRk0=w2560-h1440-rw))
-
+![1](https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/54dea860-8215-41ef-a9c3-8912688251b8)
+![3](https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/79b469da-e4b7-40ce-b422-12895414d212)
+![2](https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/8a5b719f-e8bc-4b1f-a21f-2f1cf5fc7265)
 
 
 
