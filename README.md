@@ -11,8 +11,6 @@ This repository contains the source code of the 2048 Colorful-2 game application
   <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/0ae5bb99-204b-40a0-966a-078094c6edcd" alt="" width="180" align="left">
   
   <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/54dea860-8215-41ef-a9c3-8912688251b8" alt="" width="180" align="left">
-
-  <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/ea7433b1-5480-4666-8a87-d938802fd364" alt=""  align="left" width="180">
   
   <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/79b469da-e4b7-40ce-b422-12895414d212" alt=""  align="left" width="180">
   
