@@ -6,10 +6,17 @@ This repository contains the source code of the 2048 Colorful-2 game application
 
 ## Screenshots
 
-![1](https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/54dea860-8215-41ef-a9c3-8912688251b8){:height="20px" width="30px"}
-![3](https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/79b469da-e4b7-40ce-b422-12895414d212){:height="20px" width="30px"}
-![2](https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/8a5b719f-e8bc-4b1f-a21f-2f1cf5fc7265){:height="20px" width="30px"}
+<div>
 
+  <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/54dea860-8215-41ef-a9c3-8912688251b8" alt="Login Screen" width="180" align="left">
+  
+  <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/79b469da-e4b7-40ce-b422-12895414d212" alt="Login Screen"  align="left" width="180">
+  
+  <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/8a5b719f-e8bc-4b1f-a21f-2f1cf5fc7265" alt="Login Screen"  align="left" width="180">
+
+  <br clear="all">
+
+</div>
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
