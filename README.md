@@ -2,17 +2,17 @@
 
 This repository contains the source code of the 2048 Colorful-2 game application. The  2048 Colorful-2 game app is a mobile application that allows you to create colorful images. You can download the app from the Play Store using the following link:
 
-[![Google Play Store](https://play.google.com/intl/en_us/badges/images/generic/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.colorful2&hl=en)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/tr_badge_web_generic.png" width="100">](https://play.google.com/store/apps/details?id=com.colorful2&hl=en)
 
 ## Screenshots
 
 <div>
 
-  <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/54dea860-8215-41ef-a9c3-8912688251b8" alt="Login Screen" width="180" align="left">
+  <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/54dea860-8215-41ef-a9c3-8912688251b8" alt="" width="180" align="left">
   
-  <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/79b469da-e4b7-40ce-b422-12895414d212" alt="Login Screen"  align="left" width="180">
+  <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/79b469da-e4b7-40ce-b422-12895414d212" alt=""  align="left" width="180">
   
-  <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/8a5b719f-e8bc-4b1f-a21f-2f1cf5fc7265" alt="Login Screen"  align="left" width="180">
+  <img src="https://github.com/hasangonen91/2048-Colorful-2/assets/45069041/8a5b719f-e8bc-4b1f-a21f-2f1cf5fc7265" alt=""  align="left" width="180">
 
   <br clear="all">
 
