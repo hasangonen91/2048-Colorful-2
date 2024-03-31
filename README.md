@@ -2,7 +2,7 @@
 
 This repository contains the source code of the 2048 Colorful-2 game application. The  2048 Colorful-2 game app is a mobile application that allows you to create colorful images. You can download the app from the Play Store using the following link:
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/tr_badge_web_generic.png" width="100">](https://play.google.com/store/apps/details?id=com.colorful2&hl=en)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/tr_badge_web_generic.png" width="200">](https://play.google.com/store/apps/details?id=com.colorful2&hl=en)
 
 ## Screenshots
 
